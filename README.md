@@ -1,4 +1,4 @@
-# How-do-i-21-protect-my-robot
+# How-do-i-protect-my-robot
 A robotic mower is an expensive device, so you certainly do not want your robotic mower to be stolen. But what can prevent a thief from simply walking into the yard and grabbing the robotic mower? Which functions protect the robotic mower against theft? I have already dealt with this in detail and would like to share my findings with you here.
 
 How is a robotic mower protected from theft? The following methods and techniques are available to protect the robotic mower against theft:
